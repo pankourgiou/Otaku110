@@ -5,7 +5,6 @@ x1 = "E = mcmod2"
 x2 = "Eht = chmod+x"
 x3 = "Eros = Eros"
 x4 = "Death = Death"
-x5 = "Eros = Death"
 x6 = "Difficult"
 x7 = "Salt"
 x8 = "Pepper"
@@ -17,7 +16,6 @@ print(bool(x1))
 print(bool(x2))
 print(bool(x3))
 print(bool(x4))
-print(bool(x5))
 print(bool(x6))
 print(bool(x7))
 print(bool(x8))
